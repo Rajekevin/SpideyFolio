@@ -32,9 +32,6 @@
       "eslint --fix"
     ]
   },
-  "resolutions": {
-    "sharp": "0.24.0"
-  },
   "dependencies": {
     "animejs": "^3.1.0",
     "babel-plugin-styled-components": "^1.10.6",
