@@ -7205,7 +7205,7 @@ gatsby-transformer-sharp@^2.3.7:
     potrace "^2.1.5"
     probe-image-size "^4.1.1"
     semver "^5.7.1"
-    sharp "^0.24.0"
+    sharp "^0.25.1"
 
 gatsby@^2.31.1:
   version "2.31.1"
