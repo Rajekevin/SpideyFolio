@@ -6291,7 +6291,7 @@ extglob@^2.0.4:
     regex-not "^1.0.0"
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
-    
+
 extsprintf@1.3.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/extsprintf/-/extsprintf-1.3.0.tgz#96918440e3041a7a414f8c52e3c574eb3c3e1e05"
@@ -6894,7 +6894,7 @@ gatsby-plugin-manifest@^2.2.31:
     "@babel/runtime" "^7.8.7"
     gatsby-core-utils "^1.1.1"
     semver "^5.7.1"
-    sharp "^0.25.1"
+    sharp "^0.24.0"
 
 gatsby-plugin-netlify@^2.1.27:
   version "2.2.1"
