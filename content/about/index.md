@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: './spiderRK.png'
+avatar: './spiderk.png'
 skills:
   - PHP
   - SQL
